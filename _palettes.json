@@ -1,0 +1,189 @@
+{
+    "nextPaletteID": 13,
+    "palettes": {
+        "custom2": {
+            "id": "custom2",
+            "name": "Stomach",
+            "colors": [
+                "#000000",
+                "#FFCCCC",
+                "#FF9999",
+                "#FF6666",
+                "#FF93C4",
+                "#FF3366",
+                "#F5F5DC",
+                "#800000",
+                "#FF9999",
+                "#C1EC89",
+                "#CAF28B",
+                "#7DAB64",
+                "#800000",
+                "#FFFF99",
+                "#FFF609",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom3": {
+            "id": "custom3",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF9999",
+                "#FF6666",
+                "#FF93C4",
+                "#FF3366",
+                "#F5F5DC",
+                "#000000",
+                "#D2B48C",
+                "#C1EC89",
+                "#5C406C",
+                "#7DAB64",
+                "#A4839F",
+                "#FFFF99",
+                "#FFF609",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom4": {
+            "id": "custom4",
+            "name": "New Stomach",
+            "colors": [
+                "#000000",
+                "#FFCCCC",
+                "#FF9999",
+                "#FF6666",
+                "#FF3399",
+                "#FF3366",
+                "#F5F5DC",
+                "#800000",
+                "#D2B48C",
+                "#C1EC89",
+                "#CAF28B",
+                "#7DAB64",
+                "#800000",
+                "#FFFF99",
+                "#FFD700",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom5": {
+            "id": "custom5",
+            "name": "Custom arcade",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF2121",
+                "#FF9999",
+                "#FF9999",
+                "#FFF609",
+                "#249CA3",
+                "#78DC52",
+                "#003FAD",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#FF93C4",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom6": {
+            "id": "custom6",
+            "name": "Altered Arcade",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF93C4",
+                "#FFFFFF",
+                "#FF8135",
+                "#FFF609",
+                "#249CA3",
+                "#78DC52",
+                "#003FAD",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#FF2121",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom10": {
+            "id": "custom10",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF2121",
+                "#FF93C4",
+                "#FF8135",
+                "#FFF609",
+                "#249CA3",
+                "#78DC52",
+                "#003FAD",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#FF2121",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom11": {
+            "id": "custom11",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF2121",
+                "#FF93C4",
+                "#FF8135",
+                "#FFF609",
+                "#249CA3",
+                "#78DC52",
+                "#003FAD",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#FF93C4",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom12": {
+            "id": "custom12",
+            "name": "Custom test",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF2121",
+                "#FF93C4",
+                "#FF8135",
+                "#FFF609",
+                "#249CA3",
+                "#78DC52",
+                "#003FAD",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#FF2121",
+                "#000000"
+            ],
+            "custom": true
+        }
+    }
+}
